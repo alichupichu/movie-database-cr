@@ -1,0 +1,16 @@
+.film-card.about img {
+  width: 250px;
+}
+
+.movie {
+  background-color: lightgrey;
+  margin: 10px;
+}
+
+.film-card {
+  display: flex;
+}
+
+.poster {
+  justify-content: flex-end;
+}
